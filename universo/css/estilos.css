@@ -1,0 +1,18 @@
+body
+{
+  padding: 10px;
+margin: 40px;
+font-size: 24px;
+font-family: helvetica;
+background-image: url(https://image.freepik.com/free-photo/abstract-background-with-planets-space_23-2148235955.jpg);
+background-repeat: no-repeat;
+background-size: auto;
+color: white;
+}
+
+nav
+{
+  background-color: #65db8e;
+  padding: 0px;
+  color: white;
+}
